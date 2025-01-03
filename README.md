@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React,Node.js,Express.js**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Stringboot,python**
 
 - 📫 How to reach me **khanshihab252@gmail.com**
 
