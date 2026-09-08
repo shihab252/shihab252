@@ -1,26 +1,257 @@
-<h1 align="center">Hi 👋, I'm shihab uddin khan</h1>
-<h3 align="center">Student from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab252&label=Profile%20views&color=0e75b6&style=flat" alt="shihab252" /> </p>
+# Hi, I'm Shihab Uddin Khan
 
-- 🔭 I’m currently working on **React,Node.js,Express.js**
+### Front-End Developer | Student | Tech Enthusiast
 
-- 🌱 I’m currently learning **Stringboot,python**
+I build responsive web applications and I'm continuously learning modern
+development, backend technologies, networking, and cybersecurity.
 
-- 📫 How to reach me **khanshihab252@gmail.com**
-
-- ⚡ Fun fact **I'm not funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shihab khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihab khan" height="30" width="40" /></a>
-<a href="https://fb.com/shihab khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shihab khan" height="30" width="40" /></a>
-<a href="https://instagram.com/shihabkhan_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shihabkhan_3" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/shihab252">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shihab-khan-666925217">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khanshihab252@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab252&show_icons=true&locale=en&layout=compact" alt="shihab252" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab252&" alt="shihab252" /></p>
+## About Me
+
+Hi, I'm **Shihab**, a developer from Bangladesh who enjoys building
+web applications and learning new technologies.
+
+- Currently working with **React, Node.js, and Express.js**
+- Currently learning **Python and Spring Boot**
+- Interested in **Web Development, Networking, and Cybersecurity**
+- Student at **Bangladesh University of Business and Technology**
+- Based in **Dhaka, Bangladesh**
+- Always working on improving my development skills
+
+---
+
+## What I'm Working On
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Development
+
+Building responsive and modern websites using:
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Node.js
+- Express.js
+
+</td>
+
+<td width="50%">
+
+### Learning
+
+Currently exploring:
+
+- Python
+- Spring Boot
+- Backend Development
+- REST APIs
+- Networking
+- Cybersecurity
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
+</p>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Photographer Portfolio
+
+A responsive portfolio website designed for photographers to display
+their work and services.
+
+**Tech:** React • Vite • JavaScript • CSS
+
+[View Project →](https://portfolio-f71a.onrender.com/)
+
+</td>
+
+<td width="50%">
+
+### Digital Wedding Invitation
+
+An interactive digital wedding invitation website with a responsive
+design for mobile and desktop users.
+
+**Tech:** React • JavaScript • CSS
+
+[View Project →](#)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Personal Portfolio
+
+A personal portfolio website for presenting development skills,
+projects, and contact information.
+
+**Tech:** React • Vite • JavaScript
+
+[View Project →](#)
+
+</td>
+
+<td width="50%">
+
+### More Projects
+
+I'm continuously building and experimenting with new projects.
+
+[Explore My Repositories →](https://github.com/shihab252?tab=repositories)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shihab252&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab252&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=shihab252&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shihab252&theme=tokyo-night&hide_border=true"
+  width="95%"
+/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/shihab252/shihab252/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shihab252">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shihab-khan-666925217">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:khanshihab252@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+**Keep building. Keep learning. Keep improving.**
+
+</div>
