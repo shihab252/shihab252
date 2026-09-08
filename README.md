@@ -426,49 +426,39 @@ of modern web applications.
 
 <div align="center">
 
+<a href="https://github.com/shihab252">
+
 <img
-src="https://github-readme-stats.vercel.app/api?username=shihab252&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=shihab252&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
 height="180"
 alt="Shihab's GitHub statistics"
 />
 
+</a>
+
+<a href="https://github.com/shihab252">
+
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab252&layout=compact&theme=github_dark&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab252&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
 height="180"
 alt="Shihab's most used languages"
 />
 
-</div>
+</a>
 
-<br>
-
-<div align="center">
+<br><br>
 
 <img
 src="https://streak-stats.demolab.com?user=shihab252&theme=github-dark-blue&hide_border=true"
 width="70%"
-alt="GitHub contribution streak"
+alt="Shihab's GitHub contribution streak"
 />
 
 </div>
 
 ---
 
-# GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shihab252&theme=github-compact&hide_border=true&area=true"
-width="95%"
-alt="GitHub activity graph"
-/>
-
-</div>
-
----
-
-# Let's Connect
+# Connect With Me
 
 <div align="center">
 
@@ -494,7 +484,9 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shihab252&label=Profile%20Views&color=00C896&style=flat" />
+<img
+src="https://komarev.com/ghpvc/?username=shihab252&label=PROFILE%20VIEWS&color=00C896&style=flat"
+/>
 
 <br><br>
 
